@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)]
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Elisha Makenda</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 <img align="right" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
